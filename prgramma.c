@@ -1,4 +1,4 @@
 int main() {
-    prntf("ciao");
+    prntf("ciao1");
     return 0;
 }
